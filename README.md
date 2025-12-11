@@ -8,7 +8,7 @@ This project is a single-page Curriculum Vitae built exclusively with HTML (no C
 
 ## Instructions
 
-You can run the (link)[https://roadmap.sh/projects/single-page-cv] to see the instructions I've needed to follow.
+You can run the [link](https://roadmap.sh/projects/single-page-cv) to see the instructions I've needed to follow.
 
 ## Features
 
